@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notprogramminggames
 - 👀 I’m interested in playing and making games
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning Python and HTML 5
 
 
 <!---
