@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notprogramminggames
 - 👀 I’m interested in playing and making games
-- 🌱 I’m currently learning Python and HTML 5
+- 🌱 I’m currently learning Python and Lua
 - I am working on my first website using HTML 5 and CSS 3, but I might add some JS.
 
 
